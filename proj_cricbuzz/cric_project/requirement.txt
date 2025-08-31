@@ -1,0 +1,26 @@
+DEPENDENCIES used in my project:
+
+
+1. Python Standard Libraries
+
+These are built into Python, so you usually don’t need to install them separately.
+
+sqlite3 – For interacting with SQLite databases. You used this to create tables, insert data, and run SQL queries.
+
+2. Data Manipulation & Analysis
+
+pandas – Used for working with structured data (like SQL query results). Allows you to calculate averages, group data, and convert query results into DataFrames for visualization.
+
+"pip install pandas"
+
+4. Web Dashboard
+
+streamlit – For building interactive dashboards. You can display tables, charts, and user controls like filters for year, player, or format.
+
+"pip install streamlit" 
+
+5. Web Requests / API
+
+requests – For fetching live cricket data from APIs (e.g., Cricbuzz or ICC).
+
+"pip install requests"
